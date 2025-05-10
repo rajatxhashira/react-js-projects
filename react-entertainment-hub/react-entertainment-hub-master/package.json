@@ -38,7 +38,10 @@
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
+      
       "last 1 safari version"
     ]
   }
 }
+ "postcss": "^8.4.31",
+"postcss-safe-parser": "^6.0.0"
